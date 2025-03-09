@@ -5,22 +5,46 @@ import Tilt from "react-parallax-tilt"
 
 const education = [
   {
-    degree: "Ph.D. in Computer Science and Engineering",
-    institution: "Annamalai University",
-    year: "2013",
+    degree: "PDF - Post Doctoral Fellowship",
+    institution: " Shinawatra University - Pathum Thani 12160, Thailand",
+    year: "2024",
+    description: "PDF - Post Doctoral Fellowship",
+  },
+  {
+    degree: "Ph.D. - Doctor of Philosophy",
+    institution: "Hindustan University - Padur, India",
+    year: "2023",
     description: "Thesis: Efficient Techniques for Image Compression and Retrieval",
   },
   {
+    degree: "M.A, Psychology (Pursuing)",
+    institution: "IGNOU - New Delhi",
+    year: "2022",
+    description: "Master of Arts in Psychology.",
+  },
+  {
     degree: "M.E. in Computer Science and Engineering",
-    institution: "Annamalai University",
-    year: "2001",
+    institution: "Annamalai University - India",
+    year: "2007",
     description: "Specialized in advanced computer science concepts",
   },
   {
-    degree: "B.E. in Computer Science and Engineering",
-    institution: "Bharathidasan University",
-    year: "1999",
-    description: "Foundation in computer science and engineering",
+    degree: "M.Phil, Computer Science",
+    institution: "Bharathidasan University - Trichy, Indiaity of Madras",
+    year: "2005",
+    description: "Foundation in computer science",
+  },
+  {
+    degree: "M.Sc. in Computer Science",
+    institution: "University of Madras - Chennai, India",
+    year: "2004",
+    description: "Foundation in computer science",
+  },
+  {
+    degree: "B.Sc. in Computer Science",
+    institution: "University of Madras - Chennai, India",
+    year: "2002",
+    description: "Foundation in computer science",
   },
 ]
 

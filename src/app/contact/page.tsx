@@ -62,16 +62,16 @@ export default function ContactPage() {
                 <CardContent className="space-y-4">
                   <div className="flex items-center space-x-3">
                     <Mail className="h-5 w-5 text-blue-400" />
-                    <span>bakkialakshmi.vs@example.com</span>
+                    <span>bakkyam30@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Phone className="h-5 w-5 text-blue-400" />
-                    <span>+91 XXXXXXXXXX</span>
+                    <span>+91 9791141943</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <MapPin className="h-5 w-5 text-blue-400" />
                     <span>
-                      Department of Computer Science and Engineering
+                      Department of Computing Technologies
                       <br />
                       Chennai, India
                     </span>
@@ -79,7 +79,7 @@ export default function ContactPage() {
                   <div className="flex items-center space-x-3">
                     <Globe className="h-5 w-5 text-blue-400" />
                     <a
-                      href="https://scholar.google.com/citations?user=H33lryUAAAAJ"
+                      href="https://scholar.google.com/citations?user=H33lryUAAAAJ&hl=en"
                       className="text-blue-400 hover:underline"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -101,11 +101,12 @@ export default function ContactPage() {
                     Interested in research collaboration? Feel free to reach out to discuss potential opportunities in:
                   </p>
                   <ul className="space-y-2 list-disc list-inside text-muted-foreground">
-                    <li>Machine Learning Projects</li>
-                    <li>Medical Image Analysis</li>
-                    <li>Computer Vision Research</li>
-                    <li>Academic Collaborations</li>
-                    <li>Industry Partnerships</li>
+                    <li>Critical Thinking</li>
+                    <li>Active Listening</li>
+                    <li>Problem-Solving</li>
+                    <li>Creative Direction</li>
+                    <li>Crisis Management</li>
+                    <li>Multi Tasking</li>
                   </ul>
                 </CardContent>
               </Card>

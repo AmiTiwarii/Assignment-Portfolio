@@ -96,7 +96,7 @@ export default function AboutPage() {
     },
     {
       icon: Eye,
-      title: "Computer Vision",
+      title: "Multi Tasking",
       description: "Specialized in image processing and analysis",
     },
     {
@@ -126,12 +126,12 @@ export default function AboutPage() {
     },
     {
       icon: Flask,
-      title: "Experimentation",
+      title: "Creative Direction",
       description: "Research design and methodology",
     },
     {
       icon: Binary,
-      title: "Algorithms",
+      title: "Crisi Management",
       description: "Algorithm design and optimization",
     },
   ]
